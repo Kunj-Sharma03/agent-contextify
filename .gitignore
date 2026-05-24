@@ -1,0 +1,4 @@
+/.agents/
+/.github/
+/.claude-plugin/
+node_modules/

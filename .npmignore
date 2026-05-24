@@ -1,0 +1,10 @@
+# Ignore specific development/local configuration files
+/.agents/
+/.github/
+/.claude-plugin/
+
+# Tests and other dev-only logic (add more here later if needed)
+tests/
+
+# Keep out node_modules
+node_modules/
